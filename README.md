@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/Xzq78P1h0wMUJvZE9b/giphy.gif" align="right" width="300" height="200">
+<img src="https://media.giphy.com/media/kelsTiWa09FzLGvbem/giphy.gif" align="right" width="500" height="400">
 
 ## Hi there, I'm Eda :blush: 
 

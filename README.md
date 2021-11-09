@@ -24,12 +24,12 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
-<br/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="28" height="28">
 <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="28" height="28"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="unity" width="28" height="28">
 <img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="unity" width="28" height="28">
+<br/>
 <img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="unity" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="unity" width="28" height="28">
 <img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="unity" width="25" height="25">

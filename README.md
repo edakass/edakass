@@ -1,5 +1,5 @@
 
-<img src="https://media.giphy.com/media/13Mg6Xn18UlTYMhsjW/giphy.gif" align="right" width="300" height="200">
+<img src="https://media.giphy.com/media/Xzq78P1h0wMUJvZE9b/giphy.gif" align="right" width="300" height="200">
 
 ## Hi there, I'm Eda :blush: 
 
@@ -11,8 +11,10 @@
 <br/>
 
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />][youtube]
+[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" />][instagram]
+
 <br/>
 
 ### Tech I Use

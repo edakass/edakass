@@ -11,6 +11,15 @@ Outside of research, I like listening to music, reading books, meeting people, t
 ###  from Turkey
 
 - 🌱  
+- A ship sailing far away cannot go quietly without encountering wind waves. 
+<br/>
+Wind waves are always the friends of the advancing ones.
+<br/>
+There is rather life's joy in hardship. What a monotonous voyage without a wind wave! 
+<br/>
+The more hardships I suffer, the more my heart beats. 
+<br/>
+-Friedrich Wilhelm Nietzsche-
 
 ### Reach out to me
 <br/>

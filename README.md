@@ -11,7 +11,8 @@ Outside of research, I like listening to music, reading books, meeting people, t
 ###  from Turkey
 
 - 🌱  
-- A ship sailing far away cannot go quietly without encountering wind waves. 
+<br/>
+A ship sailing far away cannot go quietly without encountering wind waves. 
 <br/>
 Wind waves are always the friends of the advancing ones.
 <br/>

@@ -3,7 +3,9 @@
 
 ## Hi there, I'm Eda :blush: 
 I’m a Computer Engineering Student
+<br/>
 I aim to improve myself continuously.
+<br/>
 Outside of research, I like listening to music, reading books, meeting people, traveling and taking photos.
 
 ###  from Turkey

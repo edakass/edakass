@@ -24,6 +24,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="28" height="28">
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
+<br/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="28" height="28">
 <img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="28" height="28"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28">
@@ -39,7 +40,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" height="28">
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28">
 <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28">
-<img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28">
+
 
 
 

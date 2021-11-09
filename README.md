@@ -9,7 +9,6 @@ I aim to improve myself continuously.
 Outside of research, I like listening to music, reading books, meeting people, traveling and taking photos.
 
 🌱  
-<br/>
 A ship sailing far away cannot go quietly without encountering wind waves. 
 <br/>
 Wind waves are always the friends of the advancing ones.

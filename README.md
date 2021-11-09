@@ -7,7 +7,7 @@ I’m a Computer Engineering Student
 I aim to improve myself continuously.
 <br/>
 Outside of research, I like listening to music, reading books, meeting people, traveling and taking photos.
-<br/>
+
 🌱  
 <br/>
 A ship sailing far away cannot go quietly without encountering wind waves. 

@@ -2,15 +2,12 @@
 <img src="https://media.giphy.com/media/VhLes6jbgrKSBkjSPM/giphy.gif" align="right" width="350" height="250">
 
 ## Hi there, I'm Eda :blush: 
-I’m a Computer Engineering Student
+- 🌱  I’m a Computer Engineering Student
 <br/>
 I aim to improve myself continuously.
 <br/>
 Outside of research, I like listening to music, reading books, meeting people, traveling and taking photos.
 
-###  from Turkey
-
-- 🌱  
 <br/>
 A ship sailing far away cannot go quietly without encountering wind waves. 
 <br/>

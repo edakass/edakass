@@ -35,8 +35,6 @@ Youtube:
 Medium:
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
-
-
 <br/>
 
 ### Tech I Use

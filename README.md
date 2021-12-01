@@ -24,8 +24,16 @@ The more hardships I suffer, the more my heart beats.
 ### Reach out to me
 <br/>
 
+Linkedin
+<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+<br/>
+Youtube:
+<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />][youtube]
+<br/>
+Medium:
+<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 
 

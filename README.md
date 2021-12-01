@@ -29,7 +29,6 @@ Linkedin
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 <br/>
 Youtube:
-<br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />][youtube]
 <br/>
 Medium:

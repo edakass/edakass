@@ -4,9 +4,6 @@
 ## Hi there, I'm Eda :blush: 
 I’m a Computer Engineering Student
 <br/>
-I aim to improve myself continuously.
-<br/>
-Outside of research, I like listening to music, reading books, traveling and taking photos.
 
 🌱  
 A ship sailing far away cannot go quietly without encountering wind waves. 

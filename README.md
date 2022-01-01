@@ -67,17 +67,16 @@ Medium:
 <br/>
 <br/>
 
-<details>
+
  <summary>:bulb:Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=edakass&&theme=radical">
-</details>
+
 
 <br/>
 
-<details>
  <summary>:bulb:Most Used Languages</summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edakass&layout=compact">
-</details>
+
 
 [linkedin]:https://www.linkedin.com/in/eda-ka%C5%9F-289943180/
 [medium]:https://medium.com/@bornthiseda

@@ -19,10 +19,11 @@ The more hardships I suffer, the more my heart beats.
 -Friedrich Wilhelm Nietzsche-
 
 ### Reach out to me
-
 <br/>
+
 Linkedin
 <br/>
+
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 <br/>
 Youtube:

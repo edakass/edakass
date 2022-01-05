@@ -19,23 +19,12 @@ The more hardships I suffer, the more my heart beats.
 
 <tr>
 <td>
-   <a href="https://github.com/edakass"><img src="https://img.icons8.com/nolan/50/github.png"/></a>
-            <a href="https://www.linkedin.com/in/eda-ka%C5%9F-289943180/"><img src="https://img.icons8.com/fluency/45/000000/linkedin.png"/></a>
-            <a href="https://medium.com/@bornthiseda"><img src="https://img.icons8.com/ios-filled/40/000000/medium-monogram--v2.png"/></a>
-  </td>
-  </tr>
-Linkedin
-<br/>
-[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-<br/>
-Youtube:
-<br/>
-[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />][youtube]
-<br/>
-Medium:
-<br/>
-[<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
-<br/>
+ <a href="https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" /></a>
+ <a href="https://www.linkedin.com/in/eda-ka%C5%9F-289943180/"><img src="https://img.icons8.com/fluency/45/000000/linkedin.png"/></a>
+ <a href="https://medium.com/@bornthiseda"><img src="https://img.icons8.com/ios-filled/40/000000/medium-monogram--v2.png"/></a>
+</td>
+</tr>
+
 
 ## Projects
 <table class="table">

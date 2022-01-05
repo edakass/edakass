@@ -30,7 +30,7 @@ The more hardships I suffer, the more my heart beats.
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">About Repo</th>
+      <th scope="col">Repo</th>
       <th scope="col">Repo Links</th>
       <th scope="col">Technologies and tools</th>
       <th scope="col">Status</th>

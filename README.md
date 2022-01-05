@@ -90,7 +90,7 @@ Projects:
     <tr>
       <th scope="row">Student Registration-CRUD</th>
       <td><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Github</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></td>
-      <td>the Bird</td>
+      <td>Spring Boot, Spring MVC, HTML, CSS, MySql, XAMPP, Java, Maven, IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>

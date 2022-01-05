@@ -77,7 +77,7 @@ Projects:
   <tbody>
     <tr>
       <th scope="row">City Service</th>
-      <td><a href="https://github.com/edakass">Repo</a></td>
+      <td><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service</a></td>
       <td>Otto</td>
       <td>@mdo</td>
     </tr>

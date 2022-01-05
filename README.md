@@ -21,6 +21,7 @@ The more hardships I suffer, the more my heart beats.
 Linkedin
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+<br/>
 Youtube:
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" />][youtube]

@@ -67,7 +67,7 @@ Medium:
      <tr>
       <th scope="row">Bank Automation</th>
       <td><a href="https://github.com/edakass/BankProject">Github</a></td>
-      <td>Visual Studio,Dev Express,C#</td>
+      <td>Visual Studio,C#(.Net Framework) Windows Form,DevExpress Components</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>

@@ -92,7 +92,7 @@ Projects:
     </tr>
     <tr>
       <th scope="row">Student Registration</th>
-      <td><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Github</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></td>
+      <td><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Github</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></td>
       <td>the Bird</td>
       <td>Finished</td>
       <td>2021</td>

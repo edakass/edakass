@@ -85,7 +85,7 @@ Projects:
     </tr>
     <tr>
       <th scope="row">Login Registration</th>
-      <td><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Github</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM>Youtube</a> </td>
+      <td><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Github</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a> </td>
       <td>Thornton</td>
       <td>@fat</td>
     </tr>

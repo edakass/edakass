@@ -76,14 +76,14 @@ Projects:
     <tr>
       <th scope="row">City Service</th>
       <td><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service</a></td>
-      <td>Spring Boot,Java,Maven,IntelliJ Idea,Postman,Rest,MongoDb</td>
+      <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, Rest, MongoDb</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
     <tr>
       <th scope="row">Login Registration</th>
       <td><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Github</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a></td>
-      <td>Spring Boot,Spring MVC,HTML,CSS,MySql,XAMPP,Java,Maven,IntelliJ</td>
+      <td>Spring Boot, Spring MVC, HTML, CSS, MySql, XAMPP, Java, Maven, IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>

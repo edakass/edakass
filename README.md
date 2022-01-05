@@ -32,6 +32,7 @@ Medium:
 <br/>
 ## Projects
 <br>
+<br>
 <table class="table">
   <thead>
     <tr>

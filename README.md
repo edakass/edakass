@@ -19,8 +19,8 @@ The more hardships I suffer, the more my heart beats.
 
 <tr>
 <td>
- <a href="https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" /></a>
  <a href="https://www.linkedin.com/in/eda-ka%C5%9F-289943180/"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
+  <a href="https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/youtube.svg" /></a>
  <a href="https://medium.com/@bornthiseda"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" /></a>
 </td>
 </tr>

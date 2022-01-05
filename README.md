@@ -72,6 +72,7 @@ Projects:
       <th scope="col">Repo Links</th>
       <th scope="col">Tech stack</th>
       <th scope="col">Status</th>
+      <th scope="col">Year</th>
     </tr>
   </thead>
   <tbody>
@@ -80,6 +81,7 @@ Projects:
       <td><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service</a></td>
       <td>Spring Boot,Java,Maven,IntelliJ Idea,Postman,Rest,MongoDb</td>
       <td>Finished</td>
+      <td>2021</td>
     </tr>
     <tr>
       <th scope="row">2</th>

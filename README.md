@@ -31,34 +31,6 @@ Medium:
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 <br/>
 
-### Tech I Use
-
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="28" height="28">
-<img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="28" height="28"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="unity" width="28" height="28">
-<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="unity" width="28" height="28">
-<br/>
-<br/>
-<br/>
-<img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28">
-<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="unity" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="unity" width="28" height="28">
-<img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="unity" width="25" height="25">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="unity" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="unity" width="28" height="28">
-<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="unity" width="28" height="28">
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28">
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" height="28">
-<img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28">
-<br/>
-<br/>
-<br/>
 <br>
 Projects:
 <br>
@@ -98,6 +70,38 @@ Projects:
     
   </tbody>
 </table>
+
+
+### Tech I Use
+
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="28" height="28">
+<img align="left" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="28" height="28"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="unity" width="28" height="28">
+<img align="left" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="unity" width="28" height="28">
+<br/>
+<br/>
+<br/>
+<img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28">
+<img align="left" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="unity" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="unity" width="28" height="28">
+<img align="left" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="unity" width="25" height="25">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="unity" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="unity" width="28" height="28">
+<img align="left" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="unity" width="28" height="28">
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28">
+<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" height="28">
+<img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28">
+<br/>
+<br/>
+<br/>
+<br>
+
 
 <br/>
 

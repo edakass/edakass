@@ -59,13 +59,12 @@ Medium:
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28">
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" height="28">
 <img align="left" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="28" height="28">
-
-
-
-
 <br/>
 <br/>
-
+<br/>
+<br>
+Projects:
+<br>
 <table class="table">
   <thead>
     <tr>

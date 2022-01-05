@@ -86,7 +86,7 @@ Projects:
     <tr>
       <th scope="row">Login Registration(CRUD)</th>
       <td><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Github</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a></td>
-      <td>Spring Boot,Spring MVC(Dependencies[Web,Thymeleaf,Spring Data Jpa,MySql Driver]),HTML,CSS,MySql,XAMPP,Java,Maven,IntelliJ</td>
+      <td>Spring Boot,Spring MVC,HTML,CSS,MySql,XAMPP,Java,Maven,IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>

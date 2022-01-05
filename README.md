@@ -68,10 +68,10 @@ Projects:
 <table class="table">
   <thead>
     <tr>
-      <th scope="col">#</th>
-      <th scope="col">First</th>
-      <th scope="col">Last</th>
-      <th scope="col">Handle</th>
+      <th scope="col">About Repo</th>
+      <th scope="col">Repo Links</th>
+      <th scope="col">Tech stack</th>
+      <th scope="col">Status</th>
     </tr>
   </thead>
   <tbody>

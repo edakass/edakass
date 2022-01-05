@@ -31,7 +31,7 @@ Medium:
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 <br/>
 <br>
-Projects:
+<img src="https://img.icons8.com/nolan/50/inspect-code.png"/>Projects:
 <br>
 <table class="table">
   <thead>

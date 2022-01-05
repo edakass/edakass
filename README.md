@@ -16,7 +16,7 @@ The more hardships I suffer, the more my heart beats.
 -Friedrich Wilhelm Nietzsche-
 
 ### Reach out to me
-<br/>
+
 
 Linkedin
 <br/>
@@ -30,8 +30,6 @@ Medium:
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 <br/>
-
-<br>
 Projects:
 <br>
 <table class="table">

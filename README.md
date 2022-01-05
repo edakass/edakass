@@ -46,14 +46,14 @@ Medium:
      <tr>
       <th scope="row">Tracking Weight App</th>
       <td> Soon </td>
-      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap</td>
+      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Not Yet</td>
       <td>2022</td>
     </tr>
     <tr>
       <th scope="row">Tracking Weight App</th>
       <td><a href="https://github.com/edakass/SpringBoot_Tracking_Weight_Application">Github</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></td>
-      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap</td>
+      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished(Without Graph)</td>
       <td>2022</td>
     </tr>

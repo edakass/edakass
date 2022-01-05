@@ -31,7 +31,7 @@ Medium:
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 <br/>
 <br>
-<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/20/000000/external-code-web-development-flatart-icons-outline-flatarticons.png"/>Projects:
+<img src="https://img.icons8.com/external-flatart-icons-outline-flatarticons/50/000000/external-code-web-development-flatart-icons-outline-flatarticons.png"/>Projects:
 <br>
 <table class="table">
   <thead>

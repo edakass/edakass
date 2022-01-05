@@ -66,6 +66,14 @@ Medium:
     </tr>
     
     
+    <tr>
+      <th scope="row">Classification(Book,Necklace)</th>
+      <td><a href="https://github.com/edakass/siniflandirma_classification">Github</a></td>
+      <td>Anaconda,Python,Colaboratory,gdrive,Keras,VGG16</td>
+      <td>Finished</td>
+      <td>2020</td>
+    </tr>
+    
   </tbody>
 </table>
 

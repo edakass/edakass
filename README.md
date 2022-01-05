@@ -84,8 +84,8 @@ Projects:
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row">2</th>
-      <td>Jacob</td>
+      <th scope="row">Login Registration</th>
+      <td><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Github</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM>Youtube</a> </td>
       <td>Thornton</td>
       <td>@fat</td>
     </tr>

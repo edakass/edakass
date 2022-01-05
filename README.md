@@ -64,6 +64,13 @@ Medium:
       <td>Finished</td>
       <td>2021</td>
     </tr>
+     <tr>
+      <th scope="row">Bank Automation</th>
+      <td><a href="https://github.com/edakass/BankProject">Github</a></td>
+      <td>Visual Studio,Dev Express,C#</td>
+      <td>Finished</td>
+      <td>2021</td>
+    </tr>
     <tr>
       <th scope="row">Classification(Book,Necklace)</th>
       <td><a href="https://github.com/edakass/siniflandirma_classification">Github</a></td>

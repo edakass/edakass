@@ -44,6 +44,13 @@ Medium:
   </thead>
   <tbody>
     <tr>
+      <th scope="row">Tracking Weight App</th>
+      <td><a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></td>
+      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap</td>
+      <td>Not Yet</td>
+      <td>2022</td>
+    </tr>
+    <tr>
       <th scope="row">City Service</th>
       <td><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">Github</a></td>
       <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, Rest, MongoDb</td>

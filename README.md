@@ -30,6 +30,7 @@ Medium:
 <br/>
 [<img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" />][medium]
 <br/>
+<br>
 Projects:
 <br>
 <table class="table">

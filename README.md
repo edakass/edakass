@@ -58,29 +58,25 @@ The more hardships I suffer, the more my heart beats.
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row">Login Registration</th>
-      <td><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Github</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a></td>
+      <th scope="row"><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Login Registration(Github)</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a></th>
       <td>Spring Boot, Spring MVC, HTML, CSS, MySql, XAMPP, Java, Maven, IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row">Student Registration-CRUD</th>
-      <td><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Github</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></td>
+      <th scope="row"><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Student Registration-CRUD(Github)</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></th>
       <td>Spring Boot, Spring MVC, HTML, CSS, MySql, XAMPP, Java, Maven, IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
      <tr>
-      <th scope="row">Bank Automation</th>
-      <td><a href="https://github.com/edakass/BankProject">Github</a></td>
+      <th scope="row"><a href="https://github.com/edakass/BankProject">Bank Automation(Github)</a></th>
       <td>Visual Studio,C#(.Net Framework) Windows Form,DevExpress Components</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row">Classification</th>
-      <td><a href="https://github.com/edakass/siniflandirma_classification">Github</a></td>
+      <th scope="row"><a href="https://github.com/edakass/siniflandirma_classification">Classification(Github)</a></th>
       <td>Anaconda,Python,Colaboratory,gdrive,Keras,VGG16</td>
       <td>Finished</td>
       <td>2020</td>

@@ -40,43 +40,43 @@ The more hardships I suffer, the more my heart beats.
   </thead>
   <tbody>
    <tr>
-      <th scope="row"><a href="https://github.com/edakass/Charts_Spring_Boot">Spring Mvc Charts(Github)</a></th>
+      <th scope="row"><a href="https://github.com/edakass/Charts_Spring_Boot">Spring Mvc Charts</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, HTML, CSS,Bootstrap</td>
       <td>Finished</td>
       <td>2022</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/SpringBoot_Tracking_Weight_Application">Tracking Weight App(Github)</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
+      <th scope="row"><a href="https://github.com/edakass/SpringBoot_Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished</td>
       <td>2022</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service(Github)</a></th>
+      <th scope="row"><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service</a></th>
       <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, Rest, MongoDb</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Login Registration(Github)</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a></th>
+      <th scope="row"><a href="https://github.com/edakass/Login_Registration_SpringBoot_Java">Login Registration</a>,<a href="https://www.youtube.com/watch?v=lOXvK9L1ZMM">Youtube</a></th>
       <td>Spring Boot, Spring MVC, HTML, CSS, MySql, XAMPP, Java, Maven, IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Student Registration-CRUD(Github)</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></th>
+      <th scope="row"><a href="https://github.com/edakass/StudentRegistration_SpringBoot_">Student Registration-CRUD</a>,<a href="https://www.youtube.com/watch?v=KA6p2Su1zaE">Youtube</a>,<a href="https://medium.com/@bornthiseda/springframework-thymeleaf-mysql-bootstrap-student-crud-example-11bc845a7184">Medium</a></th>
       <td>Spring Boot, Spring MVC, HTML, CSS, MySql, XAMPP, Java, Maven, IntelliJ</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
      <tr>
-      <th scope="row"><a href="https://github.com/edakass/BankProject">Bank Automation(Github)</a></th>
+      <th scope="row"><a href="https://github.com/edakass/BankProject">Bank Automation</a></th>
       <td>Visual Studio,C#(.Net Framework) Windows Form,DevExpress Components</td>
       <td>Finished</td>
       <td>2021</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/siniflandirma_classification">Classification(Github)</a></th>
+      <th scope="row"><a href="https://github.com/edakass/siniflandirma_classification">Classification</a></th>
       <td>Anaconda,Python,Colaboratory,gdrive,Keras,VGG16</td>
       <td>Finished</td>
       <td>2020</td>

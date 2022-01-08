@@ -42,7 +42,7 @@ The more hardships I suffer, the more my heart beats.
   <tbody>
    <tr>
       <th scope="row">Spring Mvc Charts</th>
-      <td><a href="hhttps://github.com/edakass/Charts_Spring_Boot">Github</a></td>
+      <td><a href="https://github.com/edakass/Charts_Spring_Boot">Github</a></td>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, HTML, CSS,Bootstrap,Js</td>
       <td>Finished</td>
       <td>2022</td>

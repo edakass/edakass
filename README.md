@@ -33,7 +33,6 @@ The more hardships I suffer, the more my heart beats.
   <thead>
     <tr>
       <th scope="col">Repo</th>
-      <th scope="col">Repo Links</th>
       <th scope="col">Technologies and tools</th>
       <th scope="col">Status</th>
       <th scope="col">Year</th>
@@ -41,8 +40,7 @@ The more hardships I suffer, the more my heart beats.
   </thead>
   <tbody>
    <tr>
-      <th scope="row">Spring Mvc Charts</th>
-      <td><a href="https://github.com/edakass/Charts_Spring_Boot">Github</a></td>
+      <th scope="row"><a href="https://github.com/edakass/Charts_Spring_Boot">Spring Mvc Charts</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, HTML, CSS,Bootstrap</td>
       <td>Finished</td>
       <td>2022</td>

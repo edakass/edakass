@@ -40,20 +40,19 @@ The more hardships I suffer, the more my heart beats.
   </thead>
   <tbody>
    <tr>
-      <th scope="row"><a href="https://github.com/edakass/Charts_Spring_Boot">Spring Mvc Charts</a></th>
+      <th scope="row"><a href="https://github.com/edakass/Charts_Spring_Boot">Spring Mvc Charts(Github)</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, HTML, CSS,Bootstrap</td>
       <td>Finished</td>
       <td>2022</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/SpringBoot_Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
+      <th scope="row"><a href="https://github.com/edakass/SpringBoot_Tracking_Weight_Application">Tracking Weight App(Github)</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished</td>
       <td>2022</td>
     </tr>
     <tr>
-      <th scope="row">City Service</th>
-      <td><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">Github</a></td>
+      <th scope="row"><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service(Github)</a></th>
       <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, Rest, MongoDb</td>
       <td>Finished</td>
       <td>2021</td>

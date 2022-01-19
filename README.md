@@ -46,7 +46,7 @@ The more hardships I suffer, the more my heart beats.
       <td>2022</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/SpringBoot_Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
+      <th scope="row"><a href="https://github.com/edakass/Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished</td>
       <td>2022</td>

@@ -39,6 +39,12 @@ The more hardships I suffer, the more my heart beats.
     </tr>
   </thead>
   <tbody>
+       <tr>
+      <th scope="row"><a href="https://github.com/edakass/Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
+      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
+      <td>Not Yet</td>
+      <td>2022</td>
+    </tr>
    <tr>
       <th scope="row"><a href="https://github.com/edakass/Charts_Spring_Boot">Spring Mvc Charts</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, HTML, CSS,Bootstrap</td>
@@ -46,11 +52,6 @@ The more hardships I suffer, the more my heart beats.
       <td>2022</td>
     </tr>
     <tr>
-      <th scope="row"><a href="https://github.com/edakass/Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=p9d0fenGGe0">Youtube</a></th>
-      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
-      <td>Finished</td>
-      <td>2022</td>
-    </tr>
     <tr>
       <th scope="row"><a href="https://github.com/edakass/CRUD_CityService_SpringBoot_Java_MongoDb">City Service</a></th>
       <td>Spring Boot, Java, Maven, IntelliJ Idea, Postman, Rest, MongoDb</td>

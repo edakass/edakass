@@ -3,7 +3,6 @@
 
 ## Hi there, I'm Eda :blush: 
 🌱  
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=edakass.visitor-badge&left_color=red&right_color=green) 
 A ship sailing far away cannot go quietly without encountering wind waves. 
 <br/>
 Wind waves are always the friends of the advancing ones.

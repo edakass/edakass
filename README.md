@@ -120,6 +120,9 @@ The more hardships I suffer, the more my heart beats.
 
 <br/>
 
+![image title](https://rushter.com/counter.svg)
+
+<br>
 
  <summary>:bulb:Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=edakass&&theme=radical">

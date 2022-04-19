@@ -120,9 +120,6 @@ The more hardships I suffer, the more my heart beats.
 
 <br/>
 
-![image title](https://rushter.com/counter.svg)
-Cache-Control: max-age=0, no-cache, no-store, must-revalidate
-
 <br>
 
  <summary>:bulb:Github Stats</summary>

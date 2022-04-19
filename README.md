@@ -119,7 +119,7 @@ The more hardships I suffer, the more my heart beats.
 
 
 <br/>
-![counter](https://[YOUR_ENDPOINT].m.pipedream.net)
+[counter](https://[YOUR_ENDPOINT].m.pipedream.net)
 <br>
 
  <summary>:bulb:Github Stats</summary>

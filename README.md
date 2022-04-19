@@ -140,3 +140,6 @@ The more hardships I suffer, the more my heart beats.
 <br>
 
 ![](https://komarev.com/ghpvc/?edakass=your-github-edakass&color=dc143c)
+
+<br>
+![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)

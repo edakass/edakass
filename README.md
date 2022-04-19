@@ -135,16 +135,3 @@ The more hardships I suffer, the more my heart beats.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edakass&label=Profile%20views&color=ff69b4&style=flat" alt="edakass" /> </p>
 
-
-
-<br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?edakass=your-edakass&label=Profile%20views&color=green&style=flat" alt="edakass" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?edakass=your-edakass&color=dc143c" alt="edakass" /> </p>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?edakass=your-github-edakass&label=PROFILE+VIEWS" alt="edakass" /> </p>
-
-
-
-

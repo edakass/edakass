@@ -3,8 +3,6 @@
 
 ## Hi there, I'm Eda :blush: 
 🌱  
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=edakass&label=Profile%20views&color=ce9927&style=flat" alt="edakass" /> </p>
 A ship sailing far away cannot go quietly without encountering wind waves. 
 <br/>
 Wind waves are always the friends of the advancing ones.
@@ -119,11 +117,6 @@ The more hardships I suffer, the more my heart beats.
 <br/>
 <br>
 
-
-<br/>
-
-<br>
-
  <summary>:bulb:Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=edakass&&theme=radical">
 
@@ -137,3 +130,7 @@ The more hardships I suffer, the more my heart beats.
 [linkedin]:https://www.linkedin.com/in/eda-ka%C5%9F-289943180/
 [medium]:https://medium.com/@bornthiseda
 [youtube]:https://www.youtube.com/channel/UCcL288xeuXnGSx1QFw4Wuwg?view_as=subscriber
+
+<br>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edakass&label=Profile%20views&color=ce9927&style=flat" alt="edakass" /> </p>

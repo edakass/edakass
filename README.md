@@ -3,6 +3,8 @@
 
 ## Hi there, I'm Eda :blush: 
 🌱  
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=edakass&label=Profile%20views&color=ce9927&style=flat" alt="edakass" /> </p>
 A ship sailing far away cannot go quietly without encountering wind waves. 
 <br/>
 Wind waves are always the friends of the advancing ones.

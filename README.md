@@ -1,7 +1,6 @@
 
 <img src="https://media.giphy.com/media/VhLes6jbgrKSBkjSPM/giphy.gif" align="right" width="350" height="250">
 
-<a href="file:///C:/Users/eda/Desktop/new%20cv/EDA_KAS.cv.pdf"></a>
   
 ## Hi there, I'm Eda :blush: 
 🌱  
@@ -16,6 +15,8 @@ What a monotonous voyage without a wind wave!
 The more hardships I suffer, the more my heart beats. 
 <br/>
 -Friedrich Wilhelm Nietzsche-
+
+<a href="file:///C:/Users/eda/Desktop/new%20cv/EDA_KAS.cv.pdf"></a>
 
 ### Reach out to me
 

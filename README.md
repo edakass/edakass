@@ -1,6 +1,8 @@
 
 <img src="https://media.giphy.com/media/VhLes6jbgrKSBkjSPM/giphy.gif" align="right" width="350" height="250">
 
+<a href="file:///C:/Users/eda/Desktop/new%20cv/EDA_KAS.cv.pdf"></a>
+  
 ## Hi there, I'm Eda :blush: 
 🌱  
 A ship sailing far away cannot go quietly without encountering wind waves. 

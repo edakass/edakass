@@ -46,7 +46,7 @@ The more hardships I suffer, the more my heart beats.
        <tr>
       <th scope="row"><a href="https://github.com/edakass/LightBudgetApplication">Light Budget App</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
-      <td>Not Yet</td>
+      <td>Not Finished Yet</td>
       <td>2022</td>
     </tr>
        <tr>

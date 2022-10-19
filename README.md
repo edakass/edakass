@@ -44,9 +44,9 @@ The more hardships I suffer, the more my heart beats.
   </thead>
   <tbody>
    <tr>
-      <th scope="row"><a href="https://github.com/edakass/Vet-App">Veterinary App  <img src="https://img.icons8.com/emoji/12/000000/turkey-flag-emoji.png"/>
-      
-<img src="https://img.icons8.com/emoji/12/000000/us-outlying-islands-emoji.png"/>
+      <th scope="row"><a href="https://github.com/edakass/Vet-App">Veterinary App  
+        <img src="https://img.icons8.com/emoji/20/000000/turkey-flag-emoji.png"/>
+        <img src="https://img.icons8.com/emoji/20/000000/us-outlying-islands-emoji.png"/>
       </a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished</td>

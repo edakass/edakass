@@ -45,7 +45,7 @@ The more hardships I suffer, the more my heart beats.
   <tbody>
    <tr>
       <tr>
-     <th scope="row"> <img src="https://img.icons8.com/emoji/20/000000/us-outlying-islands-emoji.png"/><a href="https://github.com/edakass/Vet-App">Veterinary App </a></th>
+     <th scope="row"><a href="https://github.com/edakass/Vet-App">Veterinary App </a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished</td>
       <td>2022</td>

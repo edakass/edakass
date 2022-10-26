@@ -51,12 +51,6 @@ The more hardships I suffer, the more my heart beats.
       <td>2022</td>
     </tr>
        <tr>
-      <th scope="row"><a href="https://github.com/edakass/Light-Budget-App">Light Budget App</a></th>
-      <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
-      <td>Not Finished Yet</td>
-      <td>2022</td>
-    </tr>
-       <tr>
       <th scope="row"><a href="https://github.com/edakass/Tracking_Weight_Application">Tracking Weight App</a>,<a href="https://www.youtube.com/watch?v=7IfKQVyWPis">Youtube</a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap,XAMPP</td>
       <td>Finished</td>

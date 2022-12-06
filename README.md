@@ -23,6 +23,7 @@ The more hardships I suffer, the more my heart beats.
 <tr>
 <td>
  <a href="https://www.linkedin.com/in/eda-ka%C5%9F-289943180/"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" /></a>
+  <a href="https://www.youtube.com/watch?v=9FUaflsLAXk&t=9s"><img src="https://img.icons8.com/doodle/24/null/youtube-play--v2.png"/></a>
  <a href="https://medium.com/@bornthiseda"><img  width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" /></a>
  <a href="https://www.hackerrank.com/eda_kas60"><img src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-bold-tal-revivo.png"/></a>
   <a href="https://leetcode.com/edakas/"><img  width="22"  src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>

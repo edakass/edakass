@@ -47,7 +47,7 @@ The more hardships I suffer, the more my heart beats.
      <tr>
      <th scope="row"><a href="https://github.com/edakass/Question-App">Question App </a></th>
       <td>Spring Boot,Spring MVC, Java, Maven, IntelliJ, Mysql, HTML, CSS,Bootstrap</td>
-      <td>Not yet</td>
+      <td>I continue</td>
       <td>2023</td>
     </tr>
       <tr>

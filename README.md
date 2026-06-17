@@ -70,11 +70,11 @@
 <br/>
 <br/>
 
- ### :bulb:Github Stats
+ ### :bulb: Github Stats
  <img src="https://github-readme-stats.vercel.app/api?username=edakass&&theme=radical">
 
 
- ### <summary>:bulb:Most Used Languages</summary>
+ ### :bulb: Most Used Languages
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edakass&layout=compact">
 
 ### 🐍 Contribution Snake

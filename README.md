@@ -13,7 +13,7 @@
 <a href="https://leetcode.com/edakas/"><img width="22" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" /></a>
 <a href="https://www.instagram.com/swekcodes/"><img width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" /></a>
 
-## Projects
+## 🚀 Projects
 
 <table class="table">
   <thead>
@@ -52,7 +52,7 @@
   </tbody>
 </table>
 
-### Tech I Use
+### 🛠️ Tech I Use
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="28" height="28">
 <img align="left" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="28" height="28">
@@ -71,13 +71,13 @@
 <br/>
 <br/>
 
- <summary>:bulb:Github Stats</summary>
+ ### <summary>:bulb:Github Stats</summary>
  <img src="https://github-readme-stats.vercel.app/api?username=edakass&&theme=radical">
 
 
 <br/>
 
- <summary>:bulb:Most Used Languages</summary>
+ ### <summary>:bulb:Most Used Languages</summary>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edakass&layout=compact">
 
 ### 🐍 Contribution Snake

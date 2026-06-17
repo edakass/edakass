@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=534AB7&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Eda+%F0%9F%91%8B;Software+Engineer" alt="Typing SVG" />
 </p>
 
-## Hi there, I'm Eda 👋
+
 
 ### 🔗 Let's Connect!
 

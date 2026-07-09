@@ -27,7 +27,7 @@
   <tbody>
     <tr>
       <th scope="row"><a href="https://github.com/edakass/tasvir-ai-studio">Tasvir AI Studio</a></th>
-      <td>FastAPI, React, Vite, Groq / Gemini / Hugging Face APIs</td>
+      <td>FastAPI, React, Vite, Gemini / Hugging Face APIs</td>
       <td>Finished</td>
       <td>2026</td>
     </tr>

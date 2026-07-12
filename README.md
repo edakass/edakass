@@ -26,6 +26,12 @@
   </thead>
   <tbody>
     <tr>
+  <th scope="row"><a href="https://github.com/edakass/seshat">Seshat</a></th>
+  <td>Java, Spring Boot, React, MySQL</td>
+  <td>In Progress</td>
+  <td>2026</td>
+</tr>
+    <tr>
       <th scope="row"><a href="https://github.com/edakass/tasvir-ai-studio">Tasvir AI Studio</a></th>
       <td>FastAPI, React, Vite, Gemini / Hugging Face APIs</td>
       <td>Finished</td>
